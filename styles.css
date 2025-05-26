@@ -1,7 +1,8 @@
-.ui-banner {
-      background-color: #eb15db !important;
-      background: #eb15db !important;
+.ui-banner.ui-banner-top {
+    background-color: #eb15db !important;
+    color: #ffffff !important;
 }
+
 .sidebar {
-      background: "red"
+    background: red !important;
 }
